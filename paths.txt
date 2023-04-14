@@ -1,0 +1,6 @@
+src\components\slider\SliderAnimation.jsx
+src\components\service\Service.jsx
+src\components\header\Header.jsx
+src\components\service\ServiceAnimation.jsx
+src\components\about\AboutAnimation.jsx
+src\views\all-home-version\HomeDarkAnimation.jsx
